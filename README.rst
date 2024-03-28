@@ -410,6 +410,12 @@ Contributing
 
 We welcome community contributions! Please refer to `CONTRIBUTING.md <https://github.com/NVIDIA/NeMo/blob/stable/CONTRIBUTING.md>`_ for the process.
 
+Learning
+------------
+
+Just getting started or ready to take a deeper dive? Explore Nvidia's learning paths! See wide range of `training resources <https://nvidia.github.io/NeMo/publications/>`_
+
+
 Publications
 ------------
 
