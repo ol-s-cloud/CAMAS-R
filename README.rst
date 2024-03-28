@@ -413,7 +413,7 @@ We welcome community contributions! Please refer to `CONTRIBUTING.md <https://gi
 Learning
 ------------
 
-Just getting started or ready to take a deeper dive? Explore Nvidia's learning paths! See wide range of `training resources <https://nvidia.github.io/NeMo/publications/>`_
+Just getting started or ready to take a deeper dive? Explore Nvidia's learning paths! See wide range of `training resources <https://www.nvidia.com/en-us/training/>`_
 
 
 Publications
